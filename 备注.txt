@@ -1,0 +1,219 @@
+# India Test
+
+# IN¡Ü??¡®a¡Æ?¡Ý
+
+# pay
+
+
+10.135.29.152  ipay.letv.com
+
+202.47.215.71 inpay.lemall.com
+
+#10.154.250.38 js.letvcdn.com
+
+#10.154.250.38 css.letvcdn.com
+
+180.179.174.16	static.payu.in
+
+180.179.174.15	test.payu.in
+
+123.126.32.251	i0.letvimg.com
+
+123.126.32.251	i1.letvimg.com
+
+123.126.32.251	i2.letvimg.com
+
+123.126.32.251	i3.letvimg.com
+
+123.126.32.251	i4.letvimg.com
+
+
+
+#dns server
+
+10.121.140.181	www.lemall.com
+
+10.121.140.181	in.lemall.com
+
+10.121.140.181	in.m.lemall.com
+
+#10.121.140.181	in.img0.lemall.com
+
+#10.121.140.181	in.img1.lemall.com
+
+#10.121.140.181	in.img2.lemall.com
+
+#10.121.140.181	in.img3.lemall.com
+
+#10.121.140.181	in.image.lemall.com
+
+10.121.140.181	in.address.go.lemall.com
+
+10.121.140.181	in.authentication.go.lemall.com
+
+10.121.140.181	in.forum.go.lemall.com
+
+10.121.140.181	in.ocsapi.go.lemall.com
+
+10.121.140.181	in.order.go.lemall.com
+
+#127.0.0.1	in.orderperiphery.go.lemall.com
+
+10.121.140.181	in.orderperiphery.go.lemall.com
+
+10.121.140.181	in.orderupdate.go.lemall.com
+
+10.121.140.181	in.payment.go.lemall.com
+
+10.121.140.181	in.pdserver.go.lemall.com
+
+10.121.140.181	in.products.go.lemall.com
+
+10.121.140.181	in.promotions.go.lemall.com
+
+10.121.140.181	in.refundorderapi.go.lemall.com
+
+10.121.140.181	in.shoppingcart.go.lemall.com
+
+10.121.140.181	in.trade.go.lemall.com
+
+10.121.140.181	in.usercenter.go.lemall.com
+
+10.121.140.181	in.webapiv2.go.lemall.com
+
+10.121.140.90	in.zk1.n.lemall.com
+
+10.121.140.94	in.zk2.n.lemall.com
+
+10.121.140.99	in.zk3.n.lemall.com
+
+202.47.215.192	in.rdb1.n.lemall.com
+
+202.47.215.192	in.rdb2.n.lemall.com
+
+202.47.215.192	in.rdb3.n.lemall.com
+
+202.47.215.192	in.rdb4.n.lemall.com
+
+202.47.215.192	in.wdb1.n.lemall.com
+
+202.47.215.192	in.wdb2.n.lemall.com
+
+202.47.215.192	in.wdb3.n.lemall.com
+
+202.47.215.192	in.wdb4.n.lemall.com
+
+10.121.140.94 	in.redis1.n.lemall.com
+
+10.121.140.90	in.redis2.n.lemall.com
+
+10.121.140.99	in.redis3.n.lemall.com
+
+10.121.140.181	in.redis4.n.lemall.com
+
+10.121.140.181	in.tax.n.lemall.com
+
+115.182.93.61	pkg-repo.oss.letv.com
+
+65.255.32.35	sso.letv.com
+
+65.255.32.35	api.sso.letv.com
+
+111.206.208.252	my.letv.com
+
+115.182.93.109	mail.letv.com
+
+10.135.29.152	ipay.letv.com
+
+10.121.140.181	in.waybill.shop.letv.com
+
+10.121.140.181	in.waybillws.shop.letv.com
+
+10.121.140.181	in.backorder.shop.letv.com
+
+10.121.140.181	in.baseservice.shop.letv.com
+
+10.121.140.181	in.taxrate.shop.letv.com
+
+10.121.140.181	in.base.shop.letv.com
+
+10.121.140.181	in.basews.shop.letv.com
+
+10.121.140.181	in.diyws.shop.letv.com
+
+10.121.140.181	in.iapi.shop.letv.com
+
+10.121.140.181	in.i.shop.letv.com
+
+10.121.140.181	in.mailms.shop.letv.com
+
+10.121.140.181	in.mailws.shop.letv.com
+
+10.121.140.181	in.newpms.shop.letv.com
+
+10.121.140.181	in.newproducts.shop.letv.com
+
+10.121.140.181	in.ocs.shop.letv.com
+
+10.121.140.181	in.productstock.shop.letv.com
+
+#127.0.0.1		in.ocs.shop.letv.com
+
+10.121.140.181	in.ofc.shop.letv.com
+
+10.121.140.181	in.ofcws.shop.letv.com
+
+10.121.140.181	in.open.shop.letv.com
+
+10.121.140.181	in.openws.shop.letv.com
+
+10.121.140.181	in.ordertools.shop.letv.com
+
+10.121.140.181	in.pmsservice.shop.letv.com
+#127.0.0.1	in.pmsservice.shop.letv.com
+10.121.140.181	in.pms.shop.letv.com
+
+#127.0.0.1		in.pms.shop.letv.com
+
+10.121.140.181	in.pod.shop.letv.com
+
+10.121.140.181	in.portaloa.shop.letv.com
+
+#127.0.0.1		in.portaloa.shop.letv.com
+
+10.121.140.181	in.portal.shop.letv.com
+
+10.121.140.181	in.refundorder.shop.letv.com
+
+#127.0.0.1		in.refundorder.shop.letv.com
+
+10.121.140.181	in.refundsn.shop.letv.com
+
+10.121.140.181	in.reportsnapi.shop.letv.com
+
+10.121.140.181	in.sc.shop.letv.com
+
+10.121.140.181	in.shipments.shop.letv.com
+
+10.121.140.181	in.srp.shop.letv.com
+
+10.121.140.181	in.storecall.shop.letv.com
+
+10.121.140.181	in.thirdweb.shop.letv.com
+
+10.121.140.181	in.thirdws.shop.letv.com
+
+10.121.140.181	in.tmsbase.shop.letv.com
+
+10.121.140.181	in.tmsbasews.shop.letv.com
+
+10.121.140.181	in.tradeoa.shop.letv.com
+
+#127.0.0.1		in.tradeoa.shop.letv.com
+
+10.121.140.181	in.wms.shop.letv.com
+
+10.121.140.181	in.wmsws.shop.letv.com
+
+10.121.140.181	in.interfaceapp.shop.letv.com
+10.121.140.181	in.backorder.shop.letv.com
